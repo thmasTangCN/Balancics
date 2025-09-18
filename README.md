@@ -76,7 +76,7 @@ Most disasters of human civilization stem from using **Consensual Truth** to usu
     It attributes the root of all human internal conflict to the **immune rejection reaction** between different "Consensual Truth" systems.
 
 9.  **Practitioner of Philosophic Democratization**
-    It demystifies philosophy: using scalpel-sharp language and AI collaboration to bring philosophy down from the altar to the workbench, **ready to use out of the box,无需权威解读 (no need for authoritative interpretation)**.
+    It demystifies philosophy: using scalpel-sharp language and AI collaboration to bring philosophy down from the altar to the workbench, **ready to use out of the box,no need for authoritative interpretation**.
 
 ## It's a " heresy". — Its Coldness and Bloodiness
 
