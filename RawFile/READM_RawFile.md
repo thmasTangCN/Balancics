@@ -1,1 +1,1 @@
-This folder is dedicated to the author's ongoing maintenance and updates of the original work. For the published version, please refer to the respective language folders.
+This folder is dedicated to the author's ongoing maintenance and updates of the original work. For release version, please refer to the respective language folders.
