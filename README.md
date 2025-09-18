@@ -11,7 +11,7 @@ Please go directly to the language folder that corresponds to your preferred lan
 You can find the appropriate version of the book there, along with all relevant information in the respective language folder.
 
 📂 Structure
-
+text
 Balancics /
 ├── 简中版/                                                       # Simply Chinese Version Floder 
 ├── English/                                                     # English  Version Floder 
