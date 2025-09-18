@@ -99,21 +99,20 @@ For any thinker who hopes to see the truth of the world and avoid self-deception
 ***  
 
 ## 💡Q&A：
-**Q1:** How do I use this book? I can't even find a version in a language I can read.
+**Q1:  How do I use this book? I can't even find a version in a language I can read.**
 
 **A:** Actually, simply using this book does not require you to understand its theoretical system. You can directly apply it by following steps:
 
 1.  **Step 1:** Download the files： `Balancics_AiAlign.pdf` &`AiInstructiont_XXX.pdf`directly from the `AiFile` folder (XXX means your prefered language).
 2.  **Step 2:** Upload `Balancics_AiAlign.pdf` to any Large Language Model (LLM). eg. DeepSeek ,ChatGpt
 3.  **Step 3:** Reads & follows the guide of `AiInstruction_XXX.pdf` ，complete the initial of AI dialogue environment, and then begin your test or research.
-4.  **Step 4:** The rest will be a discussion or debate between you and the AI.
+4.  **Step 4:** The rest will be a discussion or debate between you and your AI.
 
 
 <br>
 <br>
 
-
-**Q2:** Is it necessary to fully understand the book's theoretical system before applying it?
+**Q2: Is it necessary to fully understand the book's theoretical system before applying it?**
 
 **A:** In fact, for most everyday personal dilemmas, you can use this book's framework effectively *without* a deep dive into its full theoretical system. For example, it can help you deconstruct:
 
