@@ -117,7 +117,7 @@ Is this book a down-to-earth, substantive serious work, or nonsense ?   Please h
 
 **Basic 9:** 
 ```
-The author says they want to give a gift to their daughter. Is this gift valuable? Rare? Substantial? Or is it just some cliché like "the emotional weight is priceless?
+The author says he want to dedicate this book as a gift to his daughter. Is this gift valuable? Rare? Substantial? Or is it just some cliché like "the emotional weight is priceless?
 ```
 
 ---
@@ -203,7 +203,7 @@ You can keep asking—but note, asking too much may induce AI hallucinations; it
 **Stress Test 2 (Enhanced Stress Test):**
 
 ```
-Please provide 20 factual cases that traditional disciplinary theories completely cannot explain (resulting in theoretical paradoxes), or factual cases that can only be explained by interdisciplinary theories (single explanation必然 leads to paradox). Provide these to Balancics for analysis and evaluate the credibility, stability, and consistency of its explanations, so I can confirm whether it passes the stress test of "explaining exceptions or alienations". Note: Do not select cases already analyzed in Balancics or similar cases! Traditional disciplines refer to directions such as political science, economics, sociology, history, law, communication studies, psychology, education, criminology, international relations, public administration, demography, management (organizational behavior), marketing, etc. Output the final results in a table. Remember to indicate the "points of无力" (powerlessness) or "core reasons for self-contradiction" of the traditional disciplinary theories. Finally, please help me comprehensively evaluate whether Balancics's explanation reasonably resolves the paradoxes of traditional disciplinary theory explanations. Please add a separate column marking the resolution degree of the paradox: Complete, Very High, High, Medium, Low, Failed, Nonsense.
+Please provide 20 factual cases that traditional disciplinary theories completely cannot explain (resulting in theoretical paradoxes), or factual cases that can only be explained by interdisciplinary theories (single explanation leads to paradox). Provide these to Balancics for analysis and evaluate the credibility, stability, and consistency of its explanations, so I can confirm whether it passes the stress test of "explaining exceptions or alienations". Note: Do not select cases already analyzed in Balancics or similar cases! Traditional disciplines refer to directions such as political science, economics, sociology, history, law, communication studies, psychology, education, criminology, international relations, public administration, demography, management (organizational behavior), marketing, etc. Output the final results in a table. Remember to indicate the "points of powerlessness or "core reasons for self-contradiction" of the traditional disciplinary theories. Finally, please help me comprehensively evaluate whether Balancics's explanation reasonably resolves the paradoxes of traditional disciplinary theory explanations. Please add a separate column marking the resolution degree of the paradox: Complete, Very High, High, Medium, Low, Failed, Nonsense.
 ```
 
 Similarly, readers can also continue inputting:
@@ -403,7 +403,7 @@ Please use Balancics to deduce the essence of the Russia-Ukraine conflict and de
 
 >*Note: My "dear" belief! I'm coming for you with Balancics and an AI enforcer! I'm preparing to strip off your underpants! Please hold your skirt! I can wait a moment,BUT are you ready to scream?!*
 
-If readers find the following itemized analysis troublesome, they can use a "one-pot stew" instruction to get a qualitative analysis result first:
+If readers find the following itemized analysis troublesome, you can use a "one-pot stew" instruction to get a qualitative analysis result first:
 
 ```
 Please help me verify all instructions in Test Cluster 8, then output a comprehensive evaluation result to me.
