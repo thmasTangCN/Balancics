@@ -15,7 +15,7 @@ Last Updated: September 2025
 
 
 ## Volunteer  
-We currently provide Chinese versions only. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact me.
+Currently， I can only provide Chinese versions due to my poor English expression. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact me.
 
 ***  
 
