@@ -11,15 +11,15 @@ Please go directly to the language folder that corresponds to your preferred lan
 You can find the appropriate version of the book there, along with all relevant information in the respective language folder.
 
 📂 Structure
-text
-Balancics /
-├── 简中版/                                                       # Simply Chinese Version Floder 
-├── English/                                                     # English  Version Floder 
-├── README.md                                                    # This File
-├── LICENSE                                                      # License（CC BY-NC-ND 4.0）
-└── Ai Alignment file/                                           # Ai Alignment
 
-
+```
+Balancics/
+├── 简中版/                 # Simply Chinese Version Folder
+├── English/               # English Version Folder
+├── README.md              # This File
+├── LICENSE                # License (CC BY-NC-ND 4.0)
+└── Ai Alignment File/     # AI Alignment
+```
 
 📜 Licence
 This book is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) .
