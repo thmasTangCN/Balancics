@@ -1,19 +1,17 @@
-Balancics （衡论）
+# Balancics （衡论）
 
-A research on the Interaction between Human Thought and the Real World 
+A research on the Interaction between Human Thought and the Real World.  
+—— Dedicated to the small figures and civilizations hammered by truth
 
-——Dedicated to the small figures and civilizations hammered by truth
-
-Author: Tang Le（唐乐）
-
-Version: 3.0
-
+>Author: Tang Le（唐乐）  
+Version: 3.0  
 Last Updated: September 2025
 
-Please go directly to the language folder that corresponds to your preferred language. 
-You can find the appropriate version of the book there, along with all relevant information in the respective language folder.
+# Please go directly to the language folder for your preferred one.  
+We currently provide Chinese and English versions. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact the author.
 
-📂 Structure
+
+## 📂 Structure
 
 ```
 Balancics/
@@ -24,16 +22,11 @@ Balancics/
 └── Ai Alignment File/     # AI Alignment
 ```
 
-📜 Licence：
-
-This book is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) .
+## 📜 Licence：  
+This book is licensed under： CC BY-NC-ND 4.0 .  
 You are free to share this book, but you may not use it for commercial purposes, nor may you modify or adapt it in any way.
 
 
-📬 Contact the Author：
-
+## 📬 Contact the Author：  
 If you have intentions for cooperation or communication, you may feel free to contact the author via GitHub Issue or email: 17125902#qq.com
-
-
-
 
