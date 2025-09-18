@@ -1,7 +1,7 @@
 Balancics （衡论）
 
-On the Interaction Between Human Thought and the Real World 
-—— Dedicated to ordinary individuals and civilizations hammered by truth
+A research on the Interaction between Human Thought and the Real World 
+——Dedicated to the small figures and civilizations hammered by truth
 
 Author: Tang Le
 Version: 3.0
@@ -27,4 +27,9 @@ You are free to share this book, but you may not use it for commercial purposes,
 
 
 📬 Contact the Author
-If you have intentions for cooperation or communication, you may feel free to contact the author via GitHub Issue or email: 17125902@qq.com.
+If you have intentions for cooperation or communication, you may feel free to contact the author via GitHub Issue or email: 17125902@qq.com
+
+
+
+
+A research on the Interaction between Human Thought and the Real World， Dedicated to the small figures and civilizations hammered by truth
