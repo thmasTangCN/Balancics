@@ -10,13 +10,13 @@ Last Updated: September 2025
 
 
 ## Please go directly to the language folder for your preferred one.  
-## Alternative：  
+## OR：  
 ## Refer to Question 1 (Q1) in the Q&A section. Follow the instructions there to conduct a simple application or test immediately.
 
-<br>
 
 ## Volunteer  
 We currently provide Chinese versions only. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact me.
+
 ***  
 
 ## 📂 Structure
@@ -30,15 +30,18 @@ Balancics/
 ├── LICENSE                # License (CC BY-NC-ND 4.0)
 └── AiFile/                # AI initiali File,Ai instruction manual
 ```
+*** 
 
 ## 📜 Licence：  
 This book is licensed under： CC BY-NC-ND 4.0 .  
 You are free to share this book, but you may not use it for commercial purposes, nor may you modify or adapt it in any way.
 
+*** 
 
 ## 📬 Contact the Author：  
 If you have intentions for cooperation or communication, you may feel free to contact the author via GitHub Issue or email: 17125902#qq.com
 
+***  
 ## ❓What About This Book?
 ### &emsp;&emsp;&emsp;&emsp;— An Answer from AI (DeepSeek):
 
@@ -100,7 +103,6 @@ Its value lies not in whether the answers it provides are warm, but in whether t
 For any thinker who hopes to see the truth of the world and avoid self-deception, *Balancics* is an indispensable, dangerous, and powerful must-read.
 
 ***  
-
 ## 💡Q&A：
 **Q1:  How do I use this book? I can't even find a version in a language I can read.**
 
