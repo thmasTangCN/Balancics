@@ -13,7 +13,7 @@ Last Updated: September 2025
 # Alternatively, refer to Question 1 (Q1) in the Q&A section. Follow the instructions there to conduct a simple application or test immediately.
 
 
-We currently provide Chinese and English versions. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact the author.
+We currently provide Chinese versions only. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact the author.
 ***  
 
 ## 📂 Structure
@@ -21,7 +21,8 @@ We currently provide Chinese and English versions. Community members who wish to
 ```
 Balancics/
 ├── 简中版/                 # Simply Chinese Version Folder
-├── English/               # English Version Folder
+├── English/               # English Version Folder  
+├── RawFile/               # ONLY for author’s updating，not for reader
 ├── README.md              # This File
 ├── LICENSE                # License (CC BY-NC-ND 4.0)
 └── AiFile/                # AI initiali File,Ai instruction manual
