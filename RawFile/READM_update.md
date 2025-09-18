@@ -1,1 +1,0 @@
-This folder is dedicated to the author's ongoing maintenance and updates of the original work. For the final version, please refer to the respective language folders.
