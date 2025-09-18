@@ -32,11 +32,12 @@ AI 辅助分析：推荐使用 DeepSeek、ChatGPT 等大语言模型进行案例
 范式分析参考：包含多个历史与当代案例的深度解析，如大明灭亡、金融危机、硅谷创新神话等。
 
 📂 项目结构
-...
+```
 Balancics/
-├── 简中版/                                                       
+
+├── 简中版/         
     ├── images/
-        └── WX_Donate.jpg                                        # 微信赞助图片（jpg） 本赞助码仅接受来自中国大陆的读者捐赠
+        └── WX_Funding.png                                       # 微信赞助图片（jpg） 本赞助码仅接受来自中国大陆的读者捐赠
     ├── README_CHN.md                                            # 简中Readme（本文件）
     ├── Funding_CHN.md                                           # 读者支持说明文件（专用于中国大陆区）
     └── Balancics_SimCHN_V30_919.pdf                             # 简中完整文稿（DPF）
@@ -44,7 +45,8 @@ Balancics/
 ├── README.md                                                    # 通用README
 ├── LICENSE                                                      # 开源许可证（CC BY-NC-ND 4.0）
 └── Ai alignment file/                                           # Ai 对齐文件（用于调整Ai 分析深度，评价风格，输出风格等预设项目）
-...
+```
+
 
 🌐 开源说明
 本书以“故意粗糙”的风格撰写，旨在防止其被教条化或神圣化。作者鼓励读者：
