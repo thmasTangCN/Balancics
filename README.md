@@ -103,9 +103,9 @@ For any thinker who hopes to see the truth of the world and avoid self-deception
 
 **A:** Actually, simply using this book does not require you to understand its theoretical system. You can directly apply it by following steps:
 
-1.  **Step 1:** Download the file `Balancics_AiAlign.pdf` &`AiInstructiont_XXX.pdf`directly from the `AiFile` folder.XXX means your prefered language
+1.  **Step 1:** Download the files： `Balancics_AiAlign.pdf` &`AiInstructiont_XXX.pdf`directly from the `AiFile` folder (XXX means your prefered language).
 2.  **Step 2:** Upload `Balancics_AiAlign.pdf` to any Large Language Model (LLM). eg. DeepSeek ,ChatGpt
-3.  **Step 3:** Read & follow the guide of `AiInstruction_XXX.pdf` （XXX means the version you can read ），complete the initial AI dialogue environment setup, and then begin your use.
+3.  **Step 3:** Reads & follows the guide of `AiInstruction_XXX.pdf` ，complete the initial of AI dialogue environment, and then begin your test or research.
 4.  **Step 4:** The rest will be a discussion or debate between you and the AI.
 
 
