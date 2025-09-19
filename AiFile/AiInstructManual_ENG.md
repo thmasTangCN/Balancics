@@ -56,7 +56,10 @@ Let's talk about this book.
 ```
 what do you think of this book?
 ```
-
+Were you fell boring,You may just need this:
+```
+Please fully execute all AI test items in this book. After that,eventually provide me an integrated report. 
+```
 ---
 <br>
 <br>
