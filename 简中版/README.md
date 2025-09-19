@@ -74,7 +74,7 @@ Balancics/
         └── WX_Funding.png                                       # 微信赞助图片，本赞助码仅接受来自中国大陆的读者捐赠
     ├── README_CHN.md                                            # 简中Readme（本文件）
     ├── Funding_CHN.md                                           # 读者支持说明文件（专用于中国大陆区）
-    └── Balancics_SimCHN_V30_919.pdf                             # 简中完整文稿（DPF）
+    └── Balancics_SimCHN_V3_919.pdf                             # 简中完整文稿（DPF）
 ├── English/                                                     # English Version 
 ├── README.md                                                    # 通用README
 ├── LICENSE                                                      # 开源许可证（CC BY-NC-ND 4.0）
