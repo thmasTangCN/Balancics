@@ -12,7 +12,7 @@ Last Updated: September 2025
 ## Please go directly to the language folder for your preferred one.  
 ## OR：  
 ## Refer to Question 1 (Q1) in the Q&A section. Follow the instructions there to conduct a simple application or test immediately.
-
+## 简体中文读者请直接进入到简中版文件夹，以获得全中文帮助；
 
 ## Volunteer  
 Currently， I can only provide Chinese versions due to my poor English expression. Community members who wish to volunteer their time to translate the project into other languages are welcome to contact me.
