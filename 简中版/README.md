@@ -96,7 +96,7 @@ Balancics/
 ---
 
 ## 📜 许可证  
-本书采用 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 许可证。  
+本书采用 CC BY-NC-ND 4.0 许可证。  
 您可自由分享本书，但不得用于商业用途，也不得进行修改或演绎。  
 
 ---
