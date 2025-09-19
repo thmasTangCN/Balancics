@@ -34,7 +34,7 @@ Balancics/
 
 ## 📜 Licence：  
 This book is licensed under： CC BY-NC-ND 4.0 .  
-You are free to share this book, but you may not use it for commercial purposes, nor may you modify or adapt it in any way.
+You are free to share this book, but you may not use it for commercial purposes, nor may NOT modify or adapt it in any way.
 
 *** 
 
