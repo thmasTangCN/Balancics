@@ -56,12 +56,12 @@
 ```
 Balancics/
 
-├── 简中版/         
-    ├── images/
-        └── WX_Funding.png                                       # 微信赞助图片，本赞助码仅接受来自中国大陆的读者捐赠
+├── 简中版/                                    
     ├── README_CHN.md                                            # 简中Readme（本文件）
     ├── Funding_CHN.md                                           # 读者支持说明文件（专用于中国大陆区）
-    └── Balancics_SimCHN_V3_919.pdf                             # 简中完整文稿（DPF）
+    ├──指令.md                                                   # 《衡论》AI启动指令
+    └── Balancics***.pdf                             # 简中完整文稿（DPF）
+
 ├── English/                                                     # English Version 
 ├── README.md                                                    # 通用README
 ├── LICENSE                                                      # 开源许可证（CC BY-NC-ND 4.0）
@@ -106,4 +106,9 @@ Fork 并扩展：在遵守许可证的前提下进行非商业性的个人使用
 ---
 
 ## 💰 支持作者  
+
+## 🤖 衡论AI启动方法
+1、上传《衡论》正文给任意LLMS
+2、打开指令.md ，复制所有内容并发送
+3、开始使用《衡论》AI
  
