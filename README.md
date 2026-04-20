@@ -1,11 +1,11 @@
-# Balancics （衡论）  
+# Balancics （衡论）  Operable Philosophy 操作哲学
 
 A research on the Interaction between Human Thought and the Real World.  
 —— Dedicated to the small figures and civilizations hammered by “truth”
 
 >Author: Tang Le（唐乐）  
->Current Version: 4.0  
->Last Updated: September 2025  
+>Current Version: 10.17  
+>Last Updated: 2026/04/20  
 
 ### Please go directly to the language folder for your preferred.  
 ### OR：  
@@ -16,7 +16,7 @@ A research on the Interaction between Human Thought and the Real World.
 
 ## Volunteer  
 
-Currently， I can only provide Balancics in Chinese versions due to my poor English expression. Community members who wish to volunteer their time to translate the book into other languages are welcome to contact me.
+Currently， I can only provide Chinese versions due to my poor English expression. Community members who wish to volunteer their time to translate the book into other languages are welcome to contact me.
 
 ***
 
