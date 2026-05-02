@@ -1,4 +1,4 @@
-# 操作哲学 （Operable Philosophy）
+# 操作哲学 （Operable Philosophy）[原名衡论（Balancics）]
 副标题：关于意识与世界交互的研究 —— 献给被真理爆锤的小人物和文明
 
 > 作者：唐乐  
