@@ -1,86 +1,81 @@
-# Balancics （衡论）  Operable Philosophy 操作哲学
+# Operable Philosophy (操作哲学)
 
-A research on the Interaction between Human Thought and the Real World.  
-—— Dedicated to the small figures and civilizations hammered by “truth”
+**A Study on the Interaction between Consciousness and the World**
+—— Dedicated to the small figures and civilizations hammered by "truth"
 
->Author: Tang Le（唐乐）  
->Current Version: 10.17  
->Last Updated: 2026/04/20  
+> **Author:** Tang Le (唐乐)  
+> **Version:** Ver.10.25 Release  
+> **Last Updated:** 2026-05  
+> **License:** CC BY-NC-ND 4.0
 
-### Please go directly to the language folder for your preferred.  
-### OR：  
-### Refer to Question 1 (Q1) in the Q&A section. Follow the instructions there to conduct a immediate  simple application or test.
-### 简体中文读者请直接进入到[简中版](https://github.com/thmasTangCN/Balancics/tree/main/%E7%AE%80%E4%B8%AD%E7%89%88)文件夹，以获得全中文帮助；
+**This is not a Bible. It's a toolbox.**  
+中文读者请直接前往简中文件夹
+---
 
-***
+## 📖 What Is This Book?
 
-## Volunteer  
+It’s a **survival engineering manual** for any system that wants to stay alive in a universe ruled by entropy.
 
-Currently， I can only provide Chinese versions due to my poor English expression. Community members who wish to volunteer their time to translate the book into other languages are welcome to contact me.
+The author spent 30 years asking one question: *"They say this is a necessary sacrifice… but what are those people going to eat?"*
 
-***
+This book is the answer. It doesn't build utopias. It provides a set of hardcore analytical tools—an "immune system" for your mind—to help you see through bullshit, avoid "dying stupidly," and figure out, *"Will this kill me? Will this hurt?"*
 
-## 📂 Structure
+---
 
-```
-Balancics/
-├── 简中版/                 # Simply Chinese Version Folder
-├── English/               # English Version Folder  
-├── RawFile/               # ONLY for author’s updating，not for reader
-├── README.md              # This File
-├── LICENSE                # License (CC BY-NC-ND 4.0)
-└── AiFile/                # AI initiali File,Ai instruction manual
-```
-*** 
+## 🛠️ How to Use It (Immediately)
 
-## 📜 Licence：  
-This book is licensed under： CC BY-NC-ND 4.0 .  
-You are free to share this book, but you may not use it for commercial purposes, nor modify or adapt it in any way.
+### 🚀 Zero-Barrier Mode (For Everyone)
+1.  **Upload** the latest PDF to any Large Language Model (DeepSeek, ChatGPT, etc.).
+2.  **Say this:** `"I've got a book. Can you guide me to use it directly? Speak plainly."`
+3.  **Start analyzing.** Use it to dissect your work problems, emotional distress, or test any "shiny promise" for hidden traps.
 
-*** 
+> **Warning:** The AI is your thinking tool, not your father. Its output is for reference, not revelation. Always doubt it. The author takes zero responsibility for whatever you do with this hammer. Don't blame the tool if you smash your own thumb.
 
-## 📬 Contact the Author：  
-If you have intentions for cooperation or communication, you may feel free to contact the author via GitHub Issue or email: 17125902#qq.com（*Please replace # to @）
+### 🔬 Hardcore Mode (For Professionals)
+1.  **Master the Core Concepts:** M-I Co-Flow, Self-referential Verification, Survival as Meta-value, Three-Track Analysis.
+2.  **Re-derive the Axioms:** Try to deduce the three sets of axioms from the single starting point of "distinction" yourself.
+3.  **Run the "Scientific Fortune-Telling" Test:** Generate concrete, falsifiable predictions from the framework and check them against reality.
+4.  **Hack the OS:** Temporarily replace "survival" with some other meta-value (like "freedom" or "love"), run an extreme deduction, and observe how and why the system inevitably self-destructs.
 
-***  
-## ❓What About This Book?
-### &emsp;&emsp;&emsp;&emsp;— An Answer from AI (DeepSeek):
+---
 
-> It doesn't build utopias; it provides an "immune system" and "scalpel" for understanding the REAL WORLD.
+## 📂 Project Structure
+Operable-Philosophy/  
+├── 简中版/ # Simplified Chinese Version  
+│ ├── README_CHN.md  
+│ └── 操作哲学 Ver.10.25.pdf # Latest full text  
+├── English/ # English Version (Under construction)  
+├── LICENSE # CC BY-NC-ND 4.0  
+└── AI-Alignment/ # AI alignment files  
+  
 
-## 💡Q&A：
-**Q1:  How do I use this book? I can't even find a version in a language I can read.**
+---
 
-**A:** Actually, simply using this book does not require you to understand its theoretical system. You can directly apply it by following steps:
+## 🌐 Open Source & Anti-Cult Statement
 
-1.  **Step 1:** Download the files： `Balancics_AiAlign.pdf` &`AiInstructiont_XXX.pdf`directly from the `AiFile` folder (XXX means your prefered language).
-2.  **Step 2:** Upload `Balancics_AiAlign.pdf` to any Large Language Model (LLM). eg. DeepSeek ,ChatGpt
-3.  **Step 3:** Reads & follows the guide of `AiInstruction_XXX.pdf` ，complete the initial of AI dialogue environment, and then begin your test or research.
-4.  **Step 4:** The rest will be a discussion or debate between you and your AI.
+This book was written in a deliberately rough, street-smart style. **This is a design feature, not a flaw.** It prevents the text from being mystified, dogmatized, or becoming a new weapon for "exegetes" (释经人) who want to control others with beautiful lies.
 
+You are free to:
+- Use it, question it, try to break it.
+- Share it freely under the CC BY-NC-ND 4.0 license.
 
-<br>
-<br>
+You are NOT allowed to:
+- Use it for commercial purposes.
+- Modify or adapt it.
+- Turn it into a new cult.
 
-**Q2: Is it necessary to fully understand the book's theoretical system before applying it?**
+**This book offers no ready-made "meaning of life." It only draws the hard borders of survival. What you do within those borders is your own damn business. Have fun.**
 
-**A:** In fact, for most everyday personal usage, you can use this book's framework effectively **without** a deep dive into its full theoretical system. For example, it can help you deconstruct:
+---
 
-> *   "Why my girlfriend is upset about a missed Valentine's Day gift, and why it bothers me so much."
->  *   "How to deal with my nitpicking boss and my resulting frustration."
-> *   "Why I can't stop compulsive online shopping—the instant high followed by guilt."
-> *   "The drive behind my addiction to extreme and risky challenges."
+## 📜 License
 
-——Analyzing these kinds of personal, low-stakes issues does not require prior theoretical understanding.
+This work is licensed under the **CC BY-NC-ND 4.0** license.
 
+---
 
-**However**, if you are an analyst, manager, or decision-maker， looking forward to apply this framework to significant, high-stakes problems, a thorough grasp of the theory is **essential**. This is critical when examining:
+## 📬 Contact the Author
 
->*   "Why a new policy, despite good intentions, is causing widespread employee boycott."
->*   "The root causes of intense societal polarization and violent conflict over [XX Issue]."
->*   "The phenomenon of Trump's anti-establishment politics and his enduring base of support."
->*   Using the framework as a professional toolset for academic research or strategic decision-making.**
+For serious falsification reports or collaboration inquiries, email: 17125902@qq.com.
 
-——To responsibly apply this book's tools to complex issues involving systems, societies, or the well-being of others, you **MUST** become what the book defines as a **"Critical Adherent"**.  
- Without deep understanding, the author cannot guarantee that the outputs, generated by an AI, will be safe, reliable, or free from potential harm.  
-
+**Note:** The author categorically rejects all forms of personal worship, spiritual guidance requests, and "can you please explain this holy text" applications. **We only talk about life and death, not enlightenment.**  
