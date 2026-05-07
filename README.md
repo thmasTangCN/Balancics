@@ -1,3 +1,5 @@
+## Remark：the new update have been shifted to OperablePhilosophy
+## 注意：最新更新版本已经迁移到OperablePhilosophy 分支
 # Operable Philosophy (操作哲学)
 
 **A Study on the Interaction between Consciousness and the World**
